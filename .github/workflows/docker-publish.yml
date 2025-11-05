@@ -14,7 +14,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ghcr.io/${{ github.repository }}
+  IMAGE_NAME: ghcr.io/manuelperezf/my-db
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
